@@ -2,7 +2,7 @@
 
 - [x] CHAPTER 01 Introduction
 - [x] CHAPTER 02 Heterogeneous data parallel computing
-- [ ] CHAPTER 03 Multidimensional grids and data
+- [/] CHAPTER 03 Multidimensional grids and data
 - [ ] CHAPTER 04 Compute architecture and scheduling
 - [ ] CHAPTER 05 Memory architecture and data locality
 - [ ] CHAPTER 06 Performance considerations 
